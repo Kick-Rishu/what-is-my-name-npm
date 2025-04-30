@@ -1,0 +1,22 @@
+{
+  "name": "@rishu.kickdrum/devopstrack-rishu",
+  "version": "1.0.0",
+  "description": "For showing my name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kick-Rishu/what-is-my-name-npm.git"
+  },
+  "keywords": [
+    "myName"
+  ],
+  "author": "Rishu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kick-Rishu/what-is-my-name-npm/issues"
+  },
+  "homepage": "https://github.com/Kick-Rishu/what-is-my-name-npm#readme"
+}
